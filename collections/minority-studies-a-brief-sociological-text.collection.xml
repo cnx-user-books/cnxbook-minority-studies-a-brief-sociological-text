@@ -1,0 +1,130 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11183</md:content-id>
+    <md:title>Minority Studies: A Brief Sociological Text</md:title>
+    <md:language>en</md:language>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
+    <md:uuid>5822d75b-2bab-4d80-8467-93949e3904df</md:uuid>
+<md:slug>minority-studies-a-brief-sociological-text</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Introduction</md:title>
+      <col:content>
+        <col:module document="m33858"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Part I—Dominant and Minority Groups</md:title>
+      <col:content>
+        <col:module document="m33866"/>
+        <col:subcollection>
+          <md:title>Minorities by Group</md:title>
+          <col:content>
+            <col:module document="m34078"/>
+            <col:module document="m34079"/>
+            <col:module document="m34082"/>
+            <col:module document="m34195"/>
+          </col:content>
+        </col:subcollection>
+        <col:module document="m33903"/>
+        <col:module document="m33926"/>
+        <col:module document="m33907"/>
+        <col:module document="m33910"/>
+        <col:module document="m33899"/>
+        <col:module document="m33915"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Part II—Race and Ethnicity</md:title>
+      <col:content>
+        <col:module document="m33865"/>
+        <col:module document="m33902"/>
+        <col:module document="m33921"/>
+        <col:module document="m33906"/>
+        <col:module document="m33909"/>
+        <col:module document="m33898"/>
+        <col:module document="m33913"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Part III—Sex, Gender, and Sexual Orientation</md:title>
+      <col:content>
+        <col:module document="m33864"/>
+        <col:module document="m33901"/>
+        <col:module document="m33917"/>
+        <col:module document="m33905"/>
+        <col:module document="m33908"/>
+        <col:module document="m33897"/>
+        <col:module document="m33911"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Part IV—Aging</md:title>
+      <col:content>
+        <col:module document="m33857"/>
+        <col:module document="m33844"/>
+        <col:module document="m33856"/>
+        <col:module document="m33833"/>
+        <col:module document="m33828"/>
+        <col:module document="m33847"/>
+        <col:module document="m33869"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Part V—Disability</md:title>
+      <col:content>
+        <col:module document="m33821"/>
+        <col:module document="m33824"/>
+        <col:module document="m33826"/>
+        <col:module document="m33823"/>
+        <col:module document="m33822"/>
+        <col:module document="m33825"/>
+        <col:module document="m33870"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Part VI—Hate Kills! The Consequences of Bigotry</md:title>
+      <col:content>
+        <col:module document="m33820"/>
+        <col:module document="m33818"/>
+        <col:module document="m33819"/>
+        <col:module document="m33817"/>
+        <col:module document="m33816"/>
+        <col:module document="m33827"/>
+        <col:module document="m33871"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>The Three Sociological Paradigms/Perspectives: Conflict, Structural Functionalism, and Symbolic Interactionism</md:title>
+      <col:content>
+        <col:module document="m33962"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Reading Lists</md:title>
+      <col:content>
+        <col:module document="m33964"/>
+        <col:module document="m33965"/>
+        <col:module document="m33966"/>
+        <col:module document="m33967"/>
+        <col:module document="m33968"/>
+        <col:module document="m33969"/>
+        <col:module document="m33872"/>
+        <col:module document="m33874"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>Websites of Interest to Students of Sociology</md:title>
+      <col:content>
+        <col:module document="m33927"/>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>References</md:title>
+      <col:content>
+        <col:module document="m33846"/>
+      </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
