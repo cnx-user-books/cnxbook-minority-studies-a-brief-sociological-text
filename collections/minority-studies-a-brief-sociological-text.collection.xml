@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Ruth Dunn">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11183</md:content-id>
     <md:title>Minority Studies: A Brief Sociological Text</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License</md:license>
     <md:uuid>5822d75b-2bab-4d80-8467-93949e3904df</md:uuid>
-<md:slug>minority-studies-a-brief-sociological-text</md:slug>
-</metadata>
+    <md:slug>minority-studies-a-brief-sociological-text</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>Introduction</md:title>
@@ -15,7 +16,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Part I—Dominant and Minority Groups</md:title>
+      <md:title>Part I&#x2014;Dominant and Minority Groups</md:title>
       <col:content>
         <col:module document="m33866"/>
         <col:subcollection>
@@ -36,7 +37,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Part II—Race and Ethnicity</md:title>
+      <md:title>Part II&#x2014;Race and Ethnicity</md:title>
       <col:content>
         <col:module document="m33865"/>
         <col:module document="m33902"/>
@@ -48,7 +49,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Part III—Sex, Gender, and Sexual Orientation</md:title>
+      <md:title>Part III&#x2014;Sex, Gender, and Sexual Orientation</md:title>
       <col:content>
         <col:module document="m33864"/>
         <col:module document="m33901"/>
@@ -60,7 +61,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Part IV—Aging</md:title>
+      <md:title>Part IV&#x2014;Aging</md:title>
       <col:content>
         <col:module document="m33857"/>
         <col:module document="m33844"/>
@@ -72,7 +73,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Part V—Disability</md:title>
+      <md:title>Part V&#x2014;Disability</md:title>
       <col:content>
         <col:module document="m33821"/>
         <col:module document="m33824"/>
@@ -84,7 +85,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Part VI—Hate Kills! The Consequences of Bigotry</md:title>
+      <md:title>Part VI&#x2014;Hate Kills! The Consequences of Bigotry</md:title>
       <col:content>
         <col:module document="m33820"/>
         <col:module document="m33818"/>
